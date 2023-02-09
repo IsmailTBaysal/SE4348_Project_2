@@ -9,5 +9,3 @@ First, type the command "make" in the command line. This compiles the program.
 Then it asks the user to select the type of algorithm they want to use to make calculations.
 After selecting one algorithm it asks the user to input how many threads the user will create. 
 After entering the thread, it will increase the initialized value a million times (Since the TT algorithm takes too much time, it will increment 1000 times) one at a time and you will see the output accordingly.
-
-Note: TAS and FAI algorithms work perfectly in both Windows and Linux environments. TT algorithm also works perfectly fine on windows but when we try running it in Linux, we sometimes get a slightly less than correct output.
